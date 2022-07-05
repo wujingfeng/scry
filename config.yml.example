@@ -3,7 +3,7 @@ mysql:
   port: 3306
   username: ""
   password: ""
-  db: ""
+  db: "tools"
   config: "charset=utf8mb4&parseTime=True&loc=Local"
   max-idle-conns: 10
   max-open-conns: 100
